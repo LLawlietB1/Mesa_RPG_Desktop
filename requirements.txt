@@ -1,0 +1,6 @@
+# Dependências do programa (versões fixadas).
+PySide6-Essentials==6.12.0
+SQLAlchemy==2.1.4
+argon2-cffi==25.1.0
+email-validator==2.3.0
+Pillow==12.3.0
